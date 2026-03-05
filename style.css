@@ -1,0 +1,10 @@
+button{
+    background-color: red;
+    padding: 10px 20px;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+button:hover{
+    background-color: wheat;
+    color: black;
+}
